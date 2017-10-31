@@ -1,0 +1,23 @@
+#Translation file for NotEnoughTweaks by AtomicScience
+#For color support use a '§' (e.g '§e' will turn the text into yellow)
+#'&' will not work!
+
+tips:
+    static:
+        #It's an upper line of every hint. Type 'none' (without quotes) if you want to disable it.
+        upper_separator: §7---------------------------------------------------------
+        #It's a lower line of every hint. Type 'none' (without quotes) if you want to disable it.
+        lower_separator: §7---------------------------------------------------------
+        #It's a text of the action bar which shows when any tip triggers. Type 'none' (without quotes) if you want to disable it.
+        action_bar_text: §bNew hint unlocked!
+        #This parameter is responsible for whether the sound will be played. Available parameters: 'true' or 'false' (without quotes)
+        sound: true
+    #Tip for "Coloring blocks" tweak. Triggers when player craft something using a dye (e.g. Wool or Glass). Type 'none' if you want to disable this hint at all
+    color_crafting: §eYou can paint a colorable blocks (e.g Wool, Glass and other) using the dye. Just right click the block with the colorant in the hand
+    #Tip for "Crops harvesting" tweak. Triggers when player break a block of any crop (e.g. Carrot, Potato or Wheat). Type 'none' if you want to disable this hint at all
+    crops_harvesting: §eYou can easily harvest crops without breaking a whole block - just right click at your plant and it'll drop harvests and and you willn't need to plant it again
+    #Tip for "Tool's autochange" tweak. Triggers when player break his tool. Type 'none' if you want to disable this hint at all
+    tool_autochange: §eWhen you break your tool, game will search suitable tool in your inventory and, if finds, it'll move it right in your hand
+messages:
+    not_allowed_operation: §cYou are not permitted to do that!
+    

@@ -1,0 +1,9 @@
+name: NotEnoughTweaks
+version: 0.1
+author: AtomicScience 
+
+main: netweaks.general.Main
+
+commands:
+   tweak:
+      description: Basic command, actually
